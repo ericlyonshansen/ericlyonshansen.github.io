@@ -22,3 +22,11 @@ p.indent {
   margin: 0;
 }
 
+table, th, td {
+  border: 20px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: white;
+}
+h1 {text-align: center;}
