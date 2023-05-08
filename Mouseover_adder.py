@@ -12,6 +12,8 @@ with open(DICT_FILE, 'r', encoding='utf8') as F:
 with open(INPUT_FILE, 'r', encoding='utf8') as F:
 	INPUT_TEXT = F.read()
 
+#add method to deal with capitalized words; python lower() might be able to do it
+
 for word, definition in DICT_DICT.items():
 	replacement_text = '<span title="'+definition+'">'+word+'</span>'
 	INPUT_TEXT = INPUT_TEXT.replace(' '+word+' ', ' '+replacement_text+' ')
