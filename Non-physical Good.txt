@@ -32,7 +32,21 @@ Morality is not invented in this way, nor is is opposed to selfishness. It is si
 
 The Utilitarians fail to adequately distinguish between Ethics and Morality. They see that there are various conventions and rules that people follow so that society can function (Ethics). And they see that utility is the only tangible good that exists (Morality). They thus assume that the conventions and rules are connected to the utility, or else they postulate that they should be connected to the utility. But you're running into problems if your argument is that this is how morality SHOULD be. You're facing an uphill battle fighting against millions of years of evolution, physical and cultural. 
 
-But let us strip away that normative component. We can well agree that we can't go around lying or murdering people, if society is to hold together. This can remain a hypothetical imperative. The only true categorical imperative must aim for the Good. And the only Good, that we have any solid evidence for, is health, art, music, a home, a family -- in short, worldly happiness. You should seek those out full stop, because it's tautological that you should seek those out. The various Ethical instincts that we have about not lying, feeling guilty, treating others with kindness, etc. are perhaps necessary preconditions for our ability to seek the Good, and thus acquire a sort of metaphorical goodness. (Just as God acquired his name as an extension for actual good things.) But they are not inherently good or bad in themselves. If I tell a lie, no one finds out about it, and I forget about it, no harm has been done in a metaphysical sense. There is no magical tally keeping track of this action, and, more significantly, the action does not possess any moral property in itself. Morality just doesn't work like that.
+But let us strip away that normative component. We can well agree that we can't go around lying or murdering people, if society is to hold together. This can remain a hypothetical imperative. The only true categorical imperative must aim for the Good. And the only Good, that we have any solid evidence for, is health, art, music, a home, a family -- in short, worldly happiness. You should seek those out full stop, because it's tautological that you should seek those out. The various Ethical instincts that we have about not lying, feeling guilty, treating others with kindness, etc. are perhaps necessary preconditions for our ability to seek the Good, and thus acquire a sort of metaphorical goodness. (Just as God acquired his name as an extension for actual good things.) But they are not inherently good or bad in themselves. If I tell a lie, no one finds out about it, and I forget about it, no harm has been done in a metaphysical sense. There is no magical tally keeping track of this action, and, more significantly, the action does not possess any moral property in itself.
+
+The central equivocation made by Bentham and Mill at the beginning of Utilitarianism was never rooted out, and has been passed over ever since. Just because pleasure is a good, that does not mean that the maximization of pleasure is good, or even that actions that bring about pleasure are good. The fallacy might be written out as:
+
+(1) Utility is the only good.
+(2) If utility is the only good, then good actions are those that maximize utility and evil actions are those that minimize utility.
+(3) Therefore, good actions are those that maximize utility and evil actions are those that minimize utility.
+
+The flaw in this argument is that premise (2) is false. Although it may seem tautologous, the word "good" is being used in two different senses. Good is being used in an non-moral sense in the antecedent of that premise. But it is being
+
+There is thus a core confusion at the heart of the field of Ethics today. It might be written out like this:
+
+(1) There is a special property of certain actions that is known as moral significance.
+(2) Studying our intuitions about moral significance will produce a good model to systematize moral significance.
+(3) 
 
 [Analogy between Moore's conception of the Good as a brute metaphysical entity, and the explanation of Greece's victory over the Persians because Zeus did not want one man to rule East and West, versus a conception of Good as a complicated, contingent set of mental states, and Herodotus's explanation as a complicated set of factors in the two armies that arose out of the politics of the preceding decades.]
 
