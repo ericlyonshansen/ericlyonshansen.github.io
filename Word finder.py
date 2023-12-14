@@ -9,7 +9,7 @@ DICTIONARY_FILE = DIRECTORY+'/Greek_English_Dictionary.json'
 
 with open(INPUT_FILE, 'r', encoding='utf-8') as F:
 	INPUT_TEXT = F.read()
-INPUT_TEXT = INPUT_TEXT.replace('.', '').replace(',', '').replace("'", "").replace('(', '').replace(')', '').replace('<', '').replace('>', '').replace('[', '').replace(']', '')
+INPUT_TEXT = INPUT_TEXT.replace('.', '').replace(',', '').replace("'", "").replace('(', '').replace(')', '').replace('<', '').replace('>', '').replace('[', '').replace(']', '').replace('·', '')
 
 with open(DICTIONARY_FILE, 'r', encoding='utf8') as F:
 	DICTIONARY_DICT = json.load(F)
