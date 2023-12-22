@@ -28,12 +28,16 @@ for word in INPUT_WORD_LIST:
 		definition = DICT_DICT[word.rstrip(',')]
 		replacement_text = '<span title="'+definition+'">'+word+'</span>'
 		OUTPUT_WORD_LIST.append(replacement_text)
+	elif word.rstrip('·') in DICT_DICT.keys():
+		definition = DICT_DICT[word.rstrip('·')]
+		replacement_text = '<span title="'+definition+'">'+word+'</span>'
+		OUTPUT_WORD_LIST.append(replacement_text)
 	else:
 		OUTPUT_WORD_LIST.append(word)
 		
 OUTPUT_TEXT = ''
 for word in OUTPUT_WORD_LIST:
-	if '.<' in word:
+	if '.<' in word or '·<' in word:
 		OUTPUT_TEXT += word+'\n<p>\n<p>'
 	else:
 		OUTPUT_TEXT += word+' '
