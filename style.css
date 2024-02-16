@@ -1,18 +1,18 @@
 @font-face {
-  font-family: GentiumPlusW;
-  src: url(GentiumPlus-R.woff);
+  font-family: GFSPorson;
+  src: url(GFSPorson.otf);
 }
 
 body {
-  background-color: black;
+  background-color:#202124;
 
-  font-size: 14pt;
+  font-size: 16pt;
 
-  font-family: GentiumPlusW, Arial;
+  font-family: GFSPorson, Arial, sans-serif;
 
-  color: white;
+  color: #d4d9de;
 
-  line-height: 18pt;
+  line-height: 20pt;
 
   padding-left: 10pt;
 
@@ -22,23 +22,24 @@ body {
 
 }
 
-p.indent {
+/* p.indent {
   text-indent: 30px;
   padding: 0;
   margin: 0;
-}
+} */
 
 table, th, td {
-  border: 30px solid black;
+  border: 20px solid #202124;
   border-collapse: separate;
 }
-th, td {
+/*th, td {
   background-color: black;
-}
-h1 {text-align: center;}
+}*/
+h1 {text-align: center;
+line-height: 40pt;}
 
 /* @font-face {
     font-family: BBCBengali;
     src: url(fonts/BBCBengali.ttf) format("opentype");
     unicode-range: U+00-FF, U+980-9FF;
-} /*
+} */
