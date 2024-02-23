@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color:#202124;
+  background-color:#18181a;
 
   font-size: 16pt;
 
@@ -29,7 +29,7 @@ body {
 } */
 
 td {
-  border: 20px solid #202124;
+  border: 20px solid #18181a;
   border-collapse: separate;
   width: 50%;
   vertical-align: top;
