@@ -43,5 +43,6 @@ with open(OUTPUT_FILE, 'w', encoding='utf-8') as G:
 		word = word.rstrip(',')
 		word = word.rstrip('·')
 		word = word.rstrip('&gt;')
+		word = word.rstrip(')')
 		if word not in DICTIONARY_DICT.keys():
 			G.write(word+'\n')

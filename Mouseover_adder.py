@@ -12,35 +12,22 @@ with open(DICT_FILE, 'r', encoding='utf8') as F:
 with open(INPUT_FILE, 'r', encoding='utf8') as F:
 	INPUT_TEXT = F.read()
 
-INPUT_WORD_LIST = INPUT_TEXT.split()
+INPUT_WORD_LIST = INPUT_TEXT.split(' ')
 OUTPUT_WORD_LIST = list()
 
 for word in INPUT_WORD_LIST:
-	if word in DICT_DICT.keys():
-		definition = DICT_DICT[word]
-		replacement_text = '<span title="'+definition+'">'+word+'</span>'
-		OUTPUT_WORD_LIST.append(replacement_text)
-	elif word.rstrip('.') in DICT_DICT.keys():
-		definition = DICT_DICT[word.rstrip('.')]
-		replacement_text = '<span title="'+definition+'">'+word+'</span>'
-		OUTPUT_WORD_LIST.append(replacement_text)
-	elif word.rstrip(',') in DICT_DICT.keys():
-		definition = DICT_DICT[word.rstrip(',')]
-		replacement_text = '<span title="'+definition+'">'+word+'</span>'
-		OUTPUT_WORD_LIST.append(replacement_text)
-	elif word.rstrip('·') in DICT_DICT.keys():
-		definition = DICT_DICT[word.rstrip('·')]
-		replacement_text = '<span title="'+definition+'">'+word+'</span>'
+	cleaned_word = word.lstrip('(').lstrip('&lt;').rstrip('\n').rstrip(')').rstrip('.').rstrip(',').rstrip('·').rstrip('&gt;')
+	cleaned_word = cleaned_word.lstrip('(').lstrip('&lt;').rstrip(')').rstrip('.').rstrip(',').rstrip('·').rstrip('&gt;')
+	if cleaned_word in DICT_DICT.keys():
+		definition = DICT_DICT[cleaned_word]
+		replacement_text = '<span title="'+definition+'">'+word.replace('\n', '')+'</span>'
 		OUTPUT_WORD_LIST.append(replacement_text)
 	else:
 		OUTPUT_WORD_LIST.append(word)
 		
 OUTPUT_TEXT = ''
 for word in OUTPUT_WORD_LIST:
-	if '.<' in word or '·<' in word:
-		OUTPUT_TEXT += word+'\n<p>\n<p>'
-	else:
-		OUTPUT_TEXT += word+' '
+	OUTPUT_TEXT += word+' '
 	
 		
 

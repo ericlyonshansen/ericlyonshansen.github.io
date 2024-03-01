@@ -22,11 +22,14 @@ body {
 
 }
 
-/* p.indent {
+p.indent {
   text-indent: 30px;
-  padding: 0;
-  margin: 0;
-} */
+  padding-left: 20pt;
+
+  padding-right: 20pt;
+
+  padding-top: 1pt;
+}
 
 td {
   border: 20px solid #18181a;
@@ -48,3 +51,22 @@ line-height: 40pt;}
     src: url(fonts/BBCBengali.ttf) format("opentype");
     unicode-range: U+00-FF, U+980-9FF;
 } */
+
+a {
+  color:#8ab4f8;
+  text-decoration:none;
+  -webkit-tap-highlight-color:rgba(255,255,255,.1)
+}
+a:visited {
+  color:#c58af9
+}
+a:hover {
+  text-decoration:underline
+}
+a:hover h3 {
+  text-decoration:underline
+}
+a.a-no-hover-decoration:hover,
+a.a-no-hover-decoration:hover h3 {
+  text-decoration:none
+}
