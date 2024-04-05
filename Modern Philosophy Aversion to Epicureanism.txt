@@ -46,13 +46,27 @@ For all the ink that has been spilled about Cartesian skepticism and Rationalism
 
 Descartes's line of attack is ingenious. He seeks to use the new mechanist worldview, rather than as a threat to the Christian belief in the soul, instead as a weapon in his own favor. He first establishes that selves are fundamentally thinking things, in the famous cogito argument. He then seeks to deprive material objects of any inherent properties other than extension, through the wax argument. The wax argument might be summarized as:
 
-(1) I can 
+(1) The sensory properties of material objects are transient.
+(2) If a property is transient, I do not clearly and distinctly perceive it.
+(3) I do not clearly and distinctly perceive the sensory properties of material objects.
+(4) The extension of an object is permanent.
+(5) A permanent property is essential.
+(6) If I see that a property is essential to an object, I clearly and distinctly perceive that property.
+(7) I clearly and distinctly perceive the extension of material objects.
+
+Descartes has thus provided the reader with an infinite amount of reductio ad absurdum arguments against materialism: "If only bodies exist, then there is no moral values, for moral values could not arise out of pure matter and motion. But there are moral values. Therefore something besides bodies exist." Or "If only bodies exist, then there is no thought, for thought could not arise out of pure matter and motion. But there is thought. Therefore something besides bodies exist." Etc. These arguments are so commonplace to us now that they seem to arise from our own introspections and intuitions. Thus, for example, centuries later an Analytic philosopher like David Chalmers could make his famous "Zombie" argument plausibly. It could be summarized as:
+
+	(1) It is logically possible for a physically identical copy of oneself to exist, but for it to lack conscious experience.
+	(2) If (1) is true, then facts about conscious experience are not identical to facts about physical constitutions.
+	(3) Therefore, facts about conscious experience are not identical to facts about physical constitutions.
+
+There is a lot of Analytic jargon here that Descartes did not have at his disposal, such as "logical possibility" and "facts" as entities (indeed, the metaphysically most basic entities, according to Analytic philosophers, but more on that later). But is not this fundamentally the same argument as Descartes's? And Chalmers's arguments have launched a whole cottage industry of the mind-body problem as a legitimate source of philosophical concern. I want to suggest that this situation is only possible because of Descartes's influence. We are living in the legacy of Descartes's attempts to preserve the Christian concept of the soul, so to us it does sound plausible that it is logically possible (i.e., not contrary to any of my clear and distinct impressions) that a Chalmerian zombie could exist. Notice, too that Descartes ends the second Meditation by peering out his window and asking "Yet do I see any more than hats and coats which could conceal automatons?"
 
 Disingenuously claims that the common sense view is that the soul is a fine vapor.
 
 Introduces a barrier to knowledge about the external world, that is not there w/r/t introspection. Dereifing the external world, in order to bolster the belief in the soul.
 
-
+There is an analogy between the Cartesian method of proving the incorporeality of the mind and of proving the existence of God. God's essence may imply His existence, but if He doesn't exist in the first place, we needn't give a care what his essence implies. Just so, the mind's capacity for introspection and self-consciousness may "float free" of the corporeal world. But, without the corporeal world, there wouldn't be any mind that could so float free. Both mistake abstract objects for real objects.
 
 The Continental philosophers deserve the greatest contempt, because one feels that philosophy is for them a sort of conceptual world-building or an agonistic art. But I came to you to hear the truth. Philosophy is not a game.
 
