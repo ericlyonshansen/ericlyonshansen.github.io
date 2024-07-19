@@ -29,3 +29,41 @@ The desire to retain incorporeal substances of some kind by philosophers (for wi
 How different the history of philosophy becomes once we realize that the truth was discovered through armchair reasoning 2,500 years ago. Before Socrates even. The history of philosophy then becomes a history of suppression of the truth. Partly for financial reasons and partly because humans are not psychologically disposed to the truth. 
 
 Frege wanted to disprove naturalism about mathematics. Moore wanted to disprove naturalism about ethics (the naturalistic fallacy). This is likely a sublimated Christian urge. 
+
+"The problem about existence is a little more complex. In a much-cited discussion of Russell's theory, P. F. Strawson argues that in saying ‘the present king of France is bald’ one is not stating that a present king of France exists, but presupposing or assuming that it does (‘On Referring’, Mind, 1950). This is shown by the fact that if someone uttered this sentence, his interlocutors are not likely to say, ‘that's false’, but instead, ‘there's no king of France at present’, thereby making the point that he had not in fact made a statement, that is, he had not succeeded in saying anything true or false." (VSI Bertrand Russell). This could be an illustration of the problems with Analytic philosophy.
+
+An interesting paper topic could be a physicalist analysis of Russell's and Godel's paradox viz a viz why the meta element of both paradoxes is what leads to trouble. The brain's capacity for self-reflection is reflected in the paradoxes, perhaps?
+
+Russell's indirect realism draws on Descartes's Meditations (placing individual sense experience as the only indubitable thing). But Russell failed to appreciate the purpose behind Descartes's maneuver. It was not to combat skepticism, as he claimed. It was to weaken belief about the external world, to strengthen belief in the mind qua immortal soul. Russell's attempts to formulate a perfect philosophical language similarly draws on Leibniz, but without realizing the intent behind Leibniz's maneuver, which was to render the physical world unnecessary for knowledge (and for life). Russell's attempt to use space as the medium by which sense-experience can be related to external objects - the latter are 'constructions' from sense-data, using they notion of space as a hypothesis - is Kantian through and through. "Russell describes as the ‘supreme maxim of scientific philosophising’ the principle that ‘wherever possible, logical constructions are to be substituted for inferred entities’" (VSI Bertrand Russell). But Russell did not understand Kant's reason for the 2nd Copernican Revolution, which was to save the noumenal soul from being captured by Newtonian physics. Russell thus unwittingly brings in Christian first principles into Analytic philosophy, which, like rats on a ship, are nigh-on-impossible to eradicate once they are present.
+
+Descartes and Kant both utilize the same basic argumentative structure. (1) Raise the spectre of the skeptic in order to artificially raise the standards for knowledge to require focus to be placed on the mind and to eliminate the physical world as a viable source of knowledge (for how do you even know that the physical world exists?). (2) Posit an immaterial self that is capable of knowledge without recourse to physical interactions. Cartesian self-knowledge and mathematical knowledge. Kantian synthetic a priori knowledge. (3) Readmit the physical world now that an answer to the skeptic has been discovered, except that now the physical world is changed. In Descartes's case, we are required to accept a dualist world. In Kant's case, we are required to accept a transcendental-idealist world, in which space, time, and physics have been coopted by the noumenal soul. 
+
+Epicureans and Atheists [Cambridge, 2015]
+
+Gianluca Mori. Athéisme et dissimulation au XVIIe siècle: Guy Patin
+et le “Theophrastus redivivus,” avant-propos par Antony McKenna.
+Paris: Honoré Champion, 2020
+
+In a letter from Patin to André Falconet from 27 August 1648,
+Mori posits that in coded language, Patin referred to a meeting in
+which he, Naudé, and Gassendi began work on a “summa de l’athéisme
+qui en traite les aspects historiques, philosophiques, politiques, moraux
+et son rappart à la science de la nature de l’homme, avec un grand
+étalage d’érudition ancienne” (263, 265–68). This summa would ulti-
+mately culminate in the Theophrastus redivivus. While Mori concedes
+that Gassendi’s atheism is not fully conclusive, he notes that Guy Patin’s
+correspondence indicates that he was convinced that the professions
+of Catholic orthodoxy by the famous Epicurean atomist were not to
+be taken seriously (267). Nevertheless, it was likely Naudé who initi-
+ated the project as a way of committing to writing a secret manuscript
+capable of preserving and elaborating arguments for atheism among
+heterodox free-thinking authors. Naudé concocted the plan after at-
+taining several unpublished manuscripts from Capanella and relocating
+to Paris during which, after 1627, his zeal for obtaining obscure and
+prohibited manuscripts was “deviant obsessionelle” (269). Naudé,
+in turn, spoke with Gassendi, exhorting the latter to further pursue
+his research on Epicurus around 1630. By 1636, Naudé proposed to
+Gassendi the composition of a manuscript to be circulated among a
+circle of like-minded writers—one that would allow them both to se-
+cretly elaborate and circulate their heterodox notions without fideistic
+scruples (270-2). 
