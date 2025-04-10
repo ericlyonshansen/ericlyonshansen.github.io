@@ -3,7 +3,7 @@
 import os, json
 
 DIRECTORY = os.path.dirname(__file__)
-INPUT_FILE = DIRECTORY+'/Letter_to_Pythocles_Bailey_Bilingual (master).html'
+INPUT_FILE = DIRECTORY+'/Letter_to_Pythocles_Usener (master).html'
 OUTPUT_FILE = DIRECTORY+'/Output.html'
 DICT_FILE = DIRECTORY+'/Greek_English_Dictionary.json'
 

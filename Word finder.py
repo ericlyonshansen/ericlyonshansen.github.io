@@ -3,7 +3,7 @@ import os, json, bs4
 from collections import Counter
 
 DIRECTORY = os.path.dirname(__file__)
-INPUT_FILE = DIRECTORY+'/Letter_to_Menoeceus_Bailey_Bilingual (master).html'
+INPUT_FILE = DIRECTORY+'/Letter_to_Menoeceus_Usener.html'
 OUTPUT_FILE = DIRECTORY+'/Words.txt'
 DICTIONARY_FILE = DIRECTORY+'/Greek_English_Dictionary.json'
 
