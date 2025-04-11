@@ -3,8 +3,8 @@
 import os, json
 
 DIRECTORY = os.path.dirname(__file__)
-INPUT_FILE = DIRECTORY+'/Letter_to_Pythocles_Usener (master).html'
-OUTPUT_FILE = DIRECTORY+'/Output.html'
+INPUT_FILE = DIRECTORY+'/Letter_to_Herodotus_Usener (master).html'
+OUTPUT_FILE = DIRECTORY+'/Letter_to_Herodotus_Usener.html'
 DICT_FILE = DIRECTORY+'/Greek_English_Dictionary.json'
 
 with open(DICT_FILE, 'r', encoding='utf8') as F:
