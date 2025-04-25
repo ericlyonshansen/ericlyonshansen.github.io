@@ -126,6 +126,10 @@ p.indent {
   font-size: 110%
 }
 
+p.greek {
+  font-size: 110%
+}
+
 .indent-pars p.no-indent,
 p.no-indent {
   text-indent: 0;
@@ -253,8 +257,13 @@ table:not(.borders-custom) > tbody > tr:last-child > th {
 th,
 td {
   text-align: left;
-  padding: 0.5rem;
-  line-height: 1.1;
+  vertical-align: top;
+  padding: 0.6rem;
+  /*line-height: 1.1;*/
+  font-family: GFSPorson, 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
+  line-height: 1.5;
+  /*font-size: 110%;*/
+
 }
 /* Table caption */
 caption {
