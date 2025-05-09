@@ -391,11 +391,6 @@ figcaption::before {
   font-weight: bold;
 }
 
-/* Center align the title */
-h1:first-child {
-  text-align: center;
-}
-
 /* Nested ordered list for ToC */
 nav ol {
   counter-reset: item;
@@ -596,13 +591,11 @@ input.sidenote-toggle {
 }
 
 /* Make footnote text smaller */
-.footnotes p {
+.footnotes {
   line-height: 1.5;
   font-size: 85%;
   margin-bottom: 0.4rem;
-}
-.footnotes {
-  border-top: 1px solid var(--footnotes-border-color);
+  /*border-top: 1px solid var(--footnotes-border-color);*/
 }
 
 /* Center title and paragraph */
@@ -647,12 +640,14 @@ h1 {
   font-size: 2.5rem;
   line-height: 3.25rem;
   margin-bottom: 1.625rem;
+  text-align: center
 }
 
 h2 {
   font-size: 1.7rem;
   line-height: 2rem;
   margin-top: 3rem;
+  text-align: center
 }
 
 h3 {
@@ -730,4 +725,4 @@ h6 {
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
-} 
+}
