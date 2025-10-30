@@ -95,7 +95,7 @@ body {
   font-family: GFSPorson, 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
   line-height: 1.8;
 
-  max-width: 100ch;
+  max-width: 120ch;
   min-height: 100vh;
   overflow-x: hidden;
   margin: 0 auto;
@@ -262,7 +262,7 @@ th,
 td {
   text-align: left;
   vertical-align: top;
-  padding: 0.6rem;
+  padding: 1.0rem;
   /*line-height: 1.1;*/
   font-family: GFSPorson, 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
   line-height: 1.5;
