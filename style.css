@@ -93,9 +93,8 @@ html {
 
 body {
   font-family: GFSPorson, 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
-  line-height: 1.8;
-
-  max-width: 120ch;
+  line-height: 1.7;
+  max-width: 100ch;
   min-height: 100vh;
   overflow-x: hidden;
   margin: 0 auto;
@@ -109,9 +108,11 @@ body {
   text-rendering: optimizeLegibility;
 
   /* Allow automatic hyphenation for all text in the document */
-  hyphens: auto;
+  /*hyphens: auto;
   -webkit-hyphens: auto;
-  -moz-hyphens: auto;
+  -moz-hyphens: auto;*/
+
+  text-align: justify;
 }
 
 
@@ -487,6 +488,7 @@ dl dd {
   text-indent: 0;
   /* Right sidenotes explicitly aligned to left for wide screens */
   text-align: left;
+  color:hsl(0, 100%, 33%);
 }
 
 .sidenote.left {
@@ -725,4 +727,10 @@ h6 {
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
+}
+
+.highlight-span:hover {
+    background-color: hsl(210, 45%, 61%);; /* Highlighting color */
+    color: black;            /* Ensure text remains readable */
+    cursor: pointer;         /* Optional: changes cursor to a hand */
 }
