@@ -12,7 +12,7 @@
 
 :root {
   --body-color: hsl(0, 5%, 10%);
-  --body-bg-color: hsl(210, 20%, 98%);
+  --body-bg-color: hsl(45, 80%, 93%);
   --link-visited: hsl(0, 100%, 33%);
   --link-focus-outline: hsl(220, 90%, 52%);
   --pre-bg-color: hsl(210, 28%, 93%);
@@ -93,7 +93,7 @@ html {
 
 body {
   font-family: GFSPorson, 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
-  line-height: 1.7;
+  line-height: 1.5;
   max-width: 100ch;
   min-height: 100vh;
   overflow-x: hidden;
@@ -491,18 +491,22 @@ dl dd {
   color:hsl(0, 100%, 33%);
 }
 
-.sidenote.left {
+.lsidenote {
+  font-size: 0.8rem;
   float: left;
+  clear: left;
+  width: 18vw;
   margin-left: -20vw;
   margin-bottom: 1em;
   text-indent: 0;
   /* Left sidenotes explicitly aligned to right for wide screens */
   text-align: right;
+  color:hsl(0, 100%, 33%);
 }
 
 /* Justify all sidenotes for wide screens when `text-justify` class is used */
 body.text-justify .sidenote,
-body.text-justify .sidenote.left {
+body.text-justify .lsidenote {
     text-align: justify;
 }
 
@@ -576,7 +580,7 @@ input.sidenote-toggle {
   }
 
   /* All sidenotes explicitly aligned to left for narrow screens */
-  .sidenote-toggle:checked + .sidenote.left {
+  .sidenote-toggle:checked + .lsidenote {
     text-align: left;
   }
 
@@ -730,7 +734,7 @@ h6 {
 }
 
 .highlight-span:hover {
-    background-color: hsl(210, 45%, 61%);; /* Highlighting color */
+    background-color: hsl(209, 44%, 82%);; /* Highlighting color */
     color: black;            /* Ensure text remains readable */
     cursor: pointer;         /* Optional: changes cursor to a hand */
 }

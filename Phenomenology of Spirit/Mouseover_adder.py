@@ -3,9 +3,9 @@
 import os, json
 
 DIRECTORY = os.path.dirname(__file__)
-INPUT_FILE = DIRECTORY+'/Part A - Section II (master).html'
+INPUT_FILE = DIRECTORY+'/Part A - Section III (master).html'
 OUTPUT_FILE = DIRECTORY+'/output.html'
-CONCORDANCE_FILE = DIRECTORY+'/Part A - Section II (concordance).txt'
+CONCORDANCE_FILE = DIRECTORY+'/Part A - Section III (concordance).txt'
 CONCORDANCE_DICT = dict()
 
 with open(INPUT_FILE, 'r', encoding='utf8') as F:
