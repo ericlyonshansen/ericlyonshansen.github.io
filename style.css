@@ -94,11 +94,11 @@ html {
 body {
   font-family: GFSPorson, 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
   line-height: 1.5;
-  max-width: 100ch;
+  max-width: 95ch;
   min-height: 100vh;
   overflow-x: hidden;
   margin: 0 auto;
-  padding: 2rem 1.25rem;
+  padding: 2rem;
 
   counter-reset: theorem definition sidenote-counter;
 
